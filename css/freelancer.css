@@ -201,7 +201,10 @@ header .container {
   position: relative;
   z-index: 2;
 }
-
+header .logo {
+    width: 10px;
+    height: 10px;
+}
 header .overlay {
   position: absolute;
   top: 0;
